@@ -91,6 +91,11 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+### EMPLOYEE DATA:
+![employe web](https://github.com/Sakthimurugavel/WDM_EXP1/assets/118707246/7b43d1f4-9555-42bf-95a7-76d03df4b911)
+### WEATHER DATA:
+![WEATHER](https://github.com/Sakthimurugavel/WDM_EXP1/assets/118707246/61f90515-155a-444c-a7c6-bc7d85a914c1)
+
 
 ### Normalize -> Pre-Processing Technique:
 
