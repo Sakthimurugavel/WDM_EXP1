@@ -1,5 +1,5 @@
 ### EX1 Creation of Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform Preprocessing
-### DATE: 
+### DATE:10/02/2024
 ### AIM: 
   To Create Employee, Weather dataset in WEKA Data Mining and Analysis Tool and perform preprocessing
 ### PROCEDURE: 
@@ -53,8 +53,11 @@ rainy,75.0,80.0,false,yes
 8) Click on edit button which shows employee table on weka.
 
 ### OUTPUT:
+### EMPLOYEE DATA:
+![employ 1](https://github.com/Sakthimurugavel/WDM_EXP1/assets/118707246/b8dd46ac-48fc-4ad1-bada-a8dad0a7bf6f)
 
-
+### WEATHER DATA:
+![weather 1](https://github.com/Sakthimurugavel/WDM_EXP1/assets/118707246/a70a7118-522e-422a-b079-ed6d50d8a63d)
 
 ### PREPROCESSING
 ### Procedure:
@@ -75,6 +78,11 @@ rainy,75.0,80.0,false,yes
 14) Click on the Edit button, it shows a new Weather Table on Weka.
 
 ### OUTPUT:
+### EMPLOYEE DATA:
+![employ 2](https://github.com/Sakthimurugavel/WDM_EXP1/assets/118707246/5ee56d36-7e39-4c42-af44-55f4476c67db)
+
+### WEATHER DATA:
+![weather 2](https://github.com/Sakthimurugavel/WDM_EXP1/assets/118707246/a9c7f812-2117-49fa-b20b-f20009137cbc)
 
 ### 2) Remove -> Pre-Processing Technique:
 
@@ -92,9 +100,10 @@ rainy,75.0,80.0,false,yes
 
 ### OUTPUT:
 ### EMPLOYEE DATA:
-![employe web](https://github.com/Sakthimurugavel/WDM_EXP1/assets/118707246/7b43d1f4-9555-42bf-95a7-76d03df4b911)
+![EMPLOY 3](https://github.com/Sakthimurugavel/WDM_EXP1/assets/118707246/e52800ed-a0d0-4188-b9a2-d788591bf3a7)
+
 ### WEATHER DATA:
-![WEATHER](https://github.com/Sakthimurugavel/WDM_EXP1/assets/118707246/61f90515-155a-444c-a7c6-bc7d85a914c1)
+![WEATHER 3](https://github.com/Sakthimurugavel/WDM_EXP1/assets/118707246/10e4da05-570f-4a72-a29a-71d4b5722766)
 
 
 ### Normalize -> Pre-Processing Technique:
@@ -112,5 +121,11 @@ rainy,75.0,80.0,false,yes
 11) Click on the Edit button, it shows a new Weather Table with normalized values on Weka.
 
 ### OUTPUT:
+### EMPLOYEE DATA:
+![employe 4](https://github.com/Sakthimurugavel/WDM_EXP1/assets/118707246/c0c52ed3-012c-45d6-8345-98d25290c3b8)
+
+### WEATHER DATA:
+![weather 4](https://github.com/Sakthimurugavel/WDM_EXP1/assets/118707246/29e2985b-1a88-402c-8f29-99b87e8d79d5)
+
 ### RESULT: 
   Thus the program for generating employee and weather datasets has been developed, and preprocessing has been accomplished successfully.
